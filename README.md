@@ -17,7 +17,6 @@ npm install
 ## Usage
 
 ```python
-cd github-user
 npm start
 ```
 
