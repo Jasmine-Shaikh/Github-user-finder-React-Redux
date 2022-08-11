@@ -24,6 +24,7 @@ npm start
 - React
 - Redux
 - Axios
+- GitHub API
 - JavaScript
 - CSS
 
